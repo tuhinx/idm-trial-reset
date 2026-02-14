@@ -1,10 +1,10 @@
-# IDM Reset Trial
+# IDM Trial Reset
 > The ultimate trial management utility for Windows.
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Size](https://img.shields.io/badge/Size-~6MB-green?style=for-the-badge)
 
-**IDM Reset Trial** is a professional, lightweight utility designed to help you manage your trial period seamlessly. Built with modern technology, it ensures maximum performance with zero system impact.
+**IDM Trial Reset** is a professional, lightweight utility designed to help you manage your trial period seamlessly. Built with modern technology, it ensures maximum performance with zero system impact.
 
 ---
 
@@ -48,8 +48,8 @@ The application requires Administrator privileges to apply the necessary system 
 
 | Version | Filename | Best For | Description |
 | :--- | :--- | :--- | :--- |
-| **Installer** | `IDM Reset Trial_Setup.exe` | Standard Users | Creates desktop shortcuts and uninstaller. Recommended. |
-| **Portable** | `IDM Reset Trial_Portable.exe` | Power Users | Single executable file. Run directly from USB or any folder. |
+| **Installer** | `IDM Trial Reset_Setup.exe` | Standard Users | Creates desktop shortcuts and uninstaller. Recommended. |
+| **Portable** | `IDM Trial Reset_Portable.exe` | Power Users | Single executable file. Run directly from USB or any folder. |
 
 ---
 
